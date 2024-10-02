@@ -193,3 +193,7 @@ Rollback complete.
 ### CONCEPTUAL DIAGRAM 
 ![conceptual diagram](https://github.com/user-attachments/assets/80670397-8b3b-475e-8416-96786c306578)
 
+### More diagrams
+![Capture](https://github.com/user-attachments/assets/8b5b501c-4115-44f6-bbfd-a03cb4455c90)
+
+
