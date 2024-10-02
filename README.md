@@ -1,3 +1,5 @@
+### CONCEPTUAL DIAGRAM 
+![conceptual diagram](https://github.com/user-attachments/assets/80670397-8b3b-475e-8416-96786c306578)
 ```SQL
 Microsoft Windows [Version 10.0.19045.4894]
 (c) Microsoft Corporation. All rights reserved.
