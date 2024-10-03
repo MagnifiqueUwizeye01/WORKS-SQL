@@ -1,3 +1,11 @@
+
+
+### STUDENT MANAGMENT DATABASE (Using Oracle as RDBMS)
+
+### This description provides an overview of the Student Management Database, designed to manage and store information related to students, professors, courses, and attendance records. It includes tables for Students, Professors, Courses, and Attendance. The database ensures data integrity through the use of primary keys and foreign keys, with cascading delete actions where applicable.
+
+### SQL QUERRIES
+
 ```SQL
 Microsoft Windows [Version 10.0.19045.4894]
 (c) Microsoft Corporation. All rights reserved.
